@@ -1,5 +1,5 @@
 --
 layout: page
-title: "Blog"
+title: "Personal Website"
 --
-I am Saurav Samantaray and this is my personal website. 
+I am Saurav Samantaray, I am a Visiting Faculty in Department of Mathematics, IIT Madras. 
