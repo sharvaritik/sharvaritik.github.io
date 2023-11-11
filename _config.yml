@@ -16,8 +16,12 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "Home", icon: home}
-  - {file: "README.md", title: "About me", icon: address-card}
+  - {title: "Home", url: "sauravsray.github.io", icon: home}
+  - {title: "About me", file: "about.md", icon: address-card}
+  - {title: "Teaching", file: "teaching.md", icon: glyphicon-book}
+  - {title: "Sports", file: "sports.md", icon: fa-futbol-o}
+  - {title: "Blog", file: "blog.md", icon: pencil}
+  
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:sauravsam507@gmail.com"}
