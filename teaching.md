@@ -1,4 +1,4 @@
-# Teaching
+## Teaching
 
 ## Fall-2023 (Aug-Dec)
 * Object Oriented Programming (MA-5741), a Course for M-tech student at IIT Madras.
