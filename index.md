@@ -1,7 +1,7 @@
 # Personal Website
 I am Saurav Samantaray. Currently, I am a Visting Faculty at the Department of Mathematics, IIT Madras, Chennai, India 
 
-##About Me
+# About Me
 
 
 ## Past Professional Experience
