@@ -1,5 +1,5 @@
 This is my Personal Website. Currently, I am a Visting Fellow at the Tata Institute of Fundamental Research, Mumbai, India 
-<img src="web_pic_ss.png" width="120" height="230" />
+<>(<img src="web_pic_ss.png" width="120" height="230" />)
 
 
 # About Me
