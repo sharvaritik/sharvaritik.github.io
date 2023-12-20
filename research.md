@@ -1,4 +1,3 @@
-Research
 
 # Research Interests
 * Dynamical Systems
