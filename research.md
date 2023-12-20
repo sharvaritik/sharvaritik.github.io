@@ -1,9 +1,8 @@
 Research
 
 # Research Interests
-* Numerical Schemes for Hyperbolic PDEs
-* Finite Volume Schemes
-* Implicit Explicit (IMEX) Runge-Kutta Schemes (RK)
+* Dynamical Systems
+* Ergodic Theory
 
 # Journal Publications / Preprints
 1. Balsara, D. S.; Samantaray, S.; Subramanian, S.; "Efficient WENO-based prolongation strategies for divergence-preserving vector fields.", Commun. Appl. Math. Comput.5(2023), no.1, 428–484. [Journal Link](https://link.springer.com/article/10.1007/s42967-021-00182-x)
