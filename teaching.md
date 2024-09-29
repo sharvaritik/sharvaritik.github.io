@@ -1,3 +1,5 @@
+## Teaching
+
 # Teaching Assistantship
   * Single Variable Calculus (MAT-111)- Varsha (Fall semester) 2016
   * Mathematical Tools II (IDC-121)- Vasanth (Spring semester) 2017, Vasanth 2018
