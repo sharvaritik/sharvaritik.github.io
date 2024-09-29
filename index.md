@@ -1,5 +1,5 @@
 Welcome to my Personal Website. Currently, I am a Postdoctoral Researcher at Dipartimento di Matematica, Università di Pisa. 
-<img src="pic_web_SNT.jpg" width="120" height="230" />
+<img src="pic_web_SNT.jpg" width="230" height="230" />
 
 
 # About Me
