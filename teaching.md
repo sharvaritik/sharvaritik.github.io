@@ -1,6 +1,6 @@
 
 
-## Teaching Assistantship
+### Teaching Assistantship
 * Single variable Calculus (MAT111) Fall-2016.
 * Mathematical Tools II (IDC121) Spring-2017, 2018.
 * Multi-variable Calculus (MAT211) Fall-2017, 2018, 2019.
