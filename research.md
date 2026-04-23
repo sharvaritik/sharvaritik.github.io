@@ -1,5 +1,5 @@
 
-I am interested in ergodic theory and dynamical systems, \\
+I am interested in ergodic theory and dynamical systems,
 particulary problems in dynamical systems with holes and symbolic dynamics.
 # Journal Publications and Preprints
 1. On the escape rate for intermittent maps with holes shrinking around the indifferent fixed point (with Claudio Bonanno) (2026) [Arxiv](https://arxiv.org/abs/2601.15908)
