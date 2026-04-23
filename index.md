@@ -4,7 +4,7 @@ Welcome to my Personal Website. Currently, I am a Postdoctoral Researcher at Dip
 
 
 
-# About Me
+
 
 ## Past Professional Experience
 * Visiting Fellow, School of Mathematics, Tata Institute of Fundamental Research, Mumbai, India. (August 2022 - May 2024) 
