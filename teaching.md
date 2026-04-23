@@ -1,5 +1,4 @@
 
-# Teaching
 
 ## Teaching Assistantship
 * Single variable Calculus (MAT111) Fall-2016.
@@ -10,6 +9,7 @@
 
 
 ## Mentorship:
-* MTTS summer camp at IIT Chennai May 22 - June 03, 2023.
-* Online Foundation Course in Mathematics (OFCM by MTTS) August 20 - September 02, 2023.
+* NCM Workshop on Ergodic Theory and Fractals: IIT Tirupati (December 16 - 21, 2024).
+* MTTS summer camp: IIT Madras (May 22 - June 03, 2023).
+* Online Foundation Course in Mathematics (OFCM by MTTS) (August 20 - September 02, 2023).
 
