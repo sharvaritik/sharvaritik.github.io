@@ -4,7 +4,7 @@
 * Symbolic Dynamics
 
 # Journal Publications / Preprints
-1. Agarwal, N.; Haritha, C.; Tikekar, S. N.; "Escape Rate for Shifts with Markov Measure", (To appear in J. Aust. Math. Soc.), (2026) arXiv preprint, arXiv:2401.05118, (2024). [Article Link](https://arxiv.org/abs/2401.05118)
+1. Escape Rate for Shifts with Markov Measure (with Nikita Agarwal and Haritha Cheriyath), Journal of the Australian Mathematical Society (2026) [Article Link](https://doi.org/10.1017/S144678872610158X ) [Arxiv Link](https://arxiv.org/abs/2401.05118)
 2. Agarwal, N.; Haritha, C.; Tikekar, S. N.; "On the Perron root and eigenvectors of a non-negative integer matrix", (To appear in Linear Algebra Appl. Vol.698), (2024). [Article Link](https://arxiv.org/abs/2211.06068)
 3. Sridharan, S.; Tikekar, S. N.; "Weak Formulation of the Laplacian on the Full Shift Space", Adv. Pure Appl. Math. 13, no. 2 (2022). [Article Link](https://doi.org/10.21494/ISTE.OP.2022.0810)
 4. Sridharan, S.; Tikekar, S. N.; "Dirichlet eigenvalues of the Laplacian on full one-sided shift space", Proc. Math. Sci., 132, no. 8 (2022). [Article Link](https://doi.org/10.1007/s12044-022-00655-w)
