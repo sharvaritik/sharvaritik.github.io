@@ -2,7 +2,7 @@
 I am interested in ergodic theory and dynamical systems,
 particulary, I work on problems in dynamical systems with holes and symbolic dynamics.
 ### Journal Publications and Preprints
-1. On the escape rate for intermittent maps with holes shrinking around the indifferent fixed point (with Claudio Bonanno) (2026) [Arxiv](https://arxiv.org/abs/2601.15908)
+1. On the escape rate for intermittent maps with holes shrinking around the indifferent fixed point (with Claudio Bonanno) *accepted for publication in Proceedings of the American Mathematical Society (2026)* [Arxiv](https://arxiv.org/abs/2601.15908)
 2. Escape Rate for Shifts with Markov Measure (with Nikita Agarwal and Haritha Cheriyath), *Journal of the Australian Mathematical Society (2026)* [Journal](https://doi.org/10.1017/S144678872610158X) [Arxiv](https://arxiv.org/abs/2401.05118)
 3. A Laplacian on the full shift space (with Shrihari Sridharan), *The Journal of Analysis (2025)* [Journal](https://doi.org/10.1007/s41478-024-00824-2) [Arxiv](https://arxiv.org/abs/1907.09139) 
 4. On the Perron root and eigenvectors of a non-negative integer matrix (with Nikita Agarwal and Haritha Cheriyath), *Linear Algebra and its Applications (2024)* [Journal](https://doi.org/10.1016/j.laa.2024.05.020) [Arxiv](https://arxiv.org/abs/2211.06068)
