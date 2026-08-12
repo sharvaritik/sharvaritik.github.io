@@ -1,16 +1,17 @@
 <img src="pic_web_SNT1.jpg" width="170" height="200" />
 
-Welcome to my Personal Website. Currently, I am a Postdoctoral Researcher at Dipartimento di Matematica, Università di Pisa. 
+Welcome to my Personal Website. Currently, I am a Visiting Scientist at Indian Statistical Institute Bangalore Centre.
 
 
 
 
 
 ## Past Professional Experience
-* Visiting Fellow, School of Mathematics, Tata Institute of Fundamental Research, Mumbai, India. (August 2022 - May 2024) 
-* Postdoctoral Reasearcher, Department of Mathematics, IISER-Bhopal, Bhopal, India. (April 2022 - July 2022)
+* Postdoctoral Researcher, Dipartimento di Matematica, Università di Pisa, Italy. 
+* Visiting Fellow, School of Mathematics, Tata Institute of Fundamental Research, Mumbai, India. 
+* Postdoctoral Reasearcher, Department of Mathematics, IISER-Bhopal, Bhopal, India.
 
 ## Education
 * Integrated PhD in Mathematics, School of Mathematics, IISER-Thiruvananthapuram, Kerela, India. (2022)
-* Bsc in Mathematics from University of Mumbai, Mumbai, India. (2014)
+* Bsc in Mathematics from University of Mumbai, India. (2014)
 
